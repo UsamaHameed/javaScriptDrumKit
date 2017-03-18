@@ -1,7 +1,6 @@
 html {
 	font-family: sans-serif;
-	background-image: url(images/image.jpg);
-	background-size: cover;
+	background-color: whitesmoke;
 }
 html, body {
 	padding: 0;
